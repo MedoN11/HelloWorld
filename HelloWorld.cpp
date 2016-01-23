@@ -29,5 +29,6 @@ using namespace std;
 
 int main()
 {
+	//Adding a useful comment
     std::cout <<"HelloWorld";
 }
